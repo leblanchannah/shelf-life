@@ -1,8 +1,7 @@
 import pandas as pd
 import pytest
 
-from shelf_life.parsing import parse_price, parse_size
-from shelf_life.preprocessing import preprocess, size_columns
+from shelf_life.preprocessing import parse_price, parse_size, preprocess, size_columns
 
 
 @pytest.mark.parametrize(
