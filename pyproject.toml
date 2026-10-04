@@ -51,7 +51,7 @@ addopts = ["-ra", "--strict-markers"]
 [tool.ruff]
 line-length = 100
 target-version = "py312"
-extend-exclude = ["legacy"]
+extend-exclude = ["legacy", "notebooks"]
 
 [tool.ruff.lint]
 select = [
