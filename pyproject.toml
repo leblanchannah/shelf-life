@@ -32,12 +32,8 @@ notebook = [
     "plotly>=5.24",
     "scikit-learn>=1.5",
     "seaborn>=0.13",
-]
-# Only needed for the frozen 2023 dashboards in legacy/dash_app.
-dashboard = [
     "dash>=2.18",
     "dash-bootstrap-components>=1.6",
-    "plotly>=5.24",
 ]
 
 [build-system]
@@ -51,7 +47,7 @@ addopts = ["-ra", "--strict-markers"]
 [tool.ruff]
 line-length = 100
 target-version = "py312"
-extend-exclude = ["legacy"]
+extend-exclude = ["legacy", "notebooks"]
 
 [tool.ruff.lint]
 select = [
