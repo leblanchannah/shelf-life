@@ -76,6 +76,17 @@ def preprocess(details: pd.DataFrame) -> pd.DataFrame:
 
     for unit in ("oz", "ml", "g"):
         df[f"price_per_{unit}"] = df["price"] / df[f"size_{unit}"]
+
+    df["categories"] = df["category_name"].str.split(" --- ").to_list()
+    n_cats = 3
+    df["categories"] = df["categories"].apply(lambda x: [""] * (n_cats - len(x)) + x)
+    print(df["categories"].apply(len).min())
+
+    df = pd.concat(
+        [df, pd.DataFrame(df["categories"].to_list(), columns=["cat_l3", "cat_l2", "cat_l1"])],
+        axis=1,
+    )
+    df.drop("categories", inplace=True, axis=1)
     return df
 
 
