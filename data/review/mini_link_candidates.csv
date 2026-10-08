@@ -1,0 +1,248 @@
+tier,ambiguous,brand,mini,mini_name,match,match_name,cover,jacc,gap
+all-tokens,False,Anastasia Beverly Hills,P509420,Mini Brow Wiz® Ultra-Slim Precision Brow Pencil,P202633,Brow Wiz® Ultra-Slim Precision Eyebrow Defining Pencil,1.0,0.75,0.67
+all-tokens,False,Armani Beauty,P461421,My Way Eau de Parfum Travel Spray with Vanilla & Orange Blossom and Tuberose,P461420,My Way Eau de Parfum with Vanilla & Orange Blossom and Tuberose,1.0,1.0,0.62
+all-tokens,True,Augustinus Bader,P470508,Mini The Cream with TFC8® Face Moisturizer,P470507,The Cream with TFC8® Face Moisturizer,1.0,1.0,0.0
+all-tokens,False,Augustinus Bader,P470510,Mini The Rich Cream with TFC8® Face Moisturizer,P470509,The Rich Cream with TFC8® Face Moisturizer,1.0,1.0,0.2
+all-tokens,False,Augustinus Bader,P508422,Mini The Retinol Serum,P505808,The Retinol Serum,1.0,1.0,0.5
+all-tokens,False,BURBERRY,P505425,Her Eau de Parfum with Berries and Amber Travel Spray,P437631,"Her Eau de Parfum with Berries, Amber and Musk",1.0,0.83,0.4
+all-tokens,False,BURBERRY,P507331,Burberry Goddess Eau de Parfum with Vanilla & Lavender Travel Spray,P507316,Burberry Goddess Eau de Parfum with Vanilla & Lavender,1.0,1.0,0.5
+all-tokens,False,Benefit Cosmetics,P425601,Mini The POREfessional Pore Minimizing Primer,P264900,The POREfessional Pore Minimizing Primer,1.0,1.0,0.25
+all-tokens,False,Benefit Cosmetics,P425923,Mini Dandelion Baby-Pink Blush,P38347,Dandelion Baby-Pink Brightening Blush ,1.0,0.8,0.75
+all-tokens,False,Benefit Cosmetics,P425947,Mini Roller Lash Curling & Lifting Mascara,P392516,Roller Lash Curling & Lifting Mascara ,1.0,1.0,0.8
+all-tokens,True,Benefit Cosmetics,P425953,Mini They're Real! Lengthening Mascara,P289307,They're Real! Lengthening Mascara,1.0,1.0,0.0
+all-tokens,True,Benefit Cosmetics,P428505,Mini BADgal BANG! Volumizing Mascara,P484032,BADgal BANG! Volumizing Waterproof Mascara,1.0,0.8,0.0
+all-tokens,False,Benefit Cosmetics,P440700,Mini Gimme Brow+ Tinted Volumizing Eyebrow Gel,P409239,Gimme Brow+ Tinted Volumizing Eyebrow Gel,1.0,1.0,0.17
+all-tokens,False,Benefit Cosmetics,P505006,Mini The POREfessional Deep Retreat Pore-Clearing Clay Mask,P505023,The POREfessional Deep Retreat Pore-Clearing Kaolin Clay Mask,1.0,0.88,0.71
+all-tokens,False,Benefit Cosmetics,P506675,Mini Fan Fest Fanning & Volumizing Mascara,P506688,Fan Fest Fanning & Volumizing Mascara,1.0,1.0,0.6
+all-tokens,False,Biossance,P480280,Mini Omega Repair Deep Hydration Moisturizer + Squalane,P433887,Omega Repair Deep Hydration Moisturizer with Ceramides and Hyaluronic Acid + Squalane,1.0,0.7,0.57
+all-tokens,False,Briogeo,P427715,Mini Scalp Revival Charcoal + Coconut Oil Micro-exfoliating Shampoo,P418507,Scalp Revival Charcoal + Coconut Oil Micro-exfoliating Scalp Scrub Shampoo,1.0,0.9,0.44
+all-tokens,True,Bumble and bumble,P425464,Mini Surf Sea Salt Spray,P394825,Surf Infusion Sea Salt Spray,1.0,0.75,0.0
+all-tokens,True,Bumble and bumble,P425468,Mini Thickening Spray,P280537,Thickening Spray,1.0,1.0,0.0
+all-tokens,False,Bumble and bumble,P425471,Mini Thickening Shampoo,P280566,Thickening Volume Shampoo,1.0,0.67,0.5
+all-tokens,True,Bumble and bumble,P426164,Mini Hairdresser’s Invisible Oil Conditioner,P386462,Hairdresser's Invisible Oil Conditioner,1.0,1.0,0.0
+all-tokens,False,Bumble and bumble,P426165,Mini Hairdresser’s Invisible Oil Shampoo,P386463,Hairdresser's Invisible Oil Shampoo,1.0,1.0,0.25
+all-tokens,False,Bumble and bumble,P474310,Mini Curl Reactivator Moisturizing Hair Mist,P462839,Curl Reactivator Moisturizing Hair Mist,1.0,1.0,0.6
+all-tokens,True,By Rosie Jane,P431768,ROSIE travel spray with white musk,P436758,ROSIE perfume oil with white musk,1.0,0.6,0.0
+all-tokens,True,By Rosie Jane,P503061,DULCE travel spray with vanilla,P503074,DULCE eau de parfum with vanilla,1.0,0.5,0.0
+all-tokens,False,CLEAN RESERVE,P425661,Skin Eau de Parfum with Musk and Vanilla Travel Spray,P404356,Skin Eau de Parfum with Musk and Vanilla,1.0,1.0,0.4
+all-tokens,False,CLEAN RESERVE,P429078,Reserve - Acqua Neroli Travel Spray,P429079,Reserve - Acqua Neroli,1.0,1.0,0.67
+all-tokens,False,CLEAN RESERVE,P456553,Radiant Nectar Eau de Parfum with Woody Musk Travel Spray,P456552,Radiant Nectar Eau de Parfum with Woody Musk,1.0,1.0,0.5
+all-tokens,False,CLEAN RESERVE,P503859,Sparkling Sugar Eau de Parfum with Peach Travel Spray,P503857,Sparkling Sugar Eau de Parfum with Peach,1.0,1.0,0.6
+all-tokens,True,CLINIQUE,P223704,"Mini Take The Day Off Makeup Remover For Lids, Lashes & Lips",P122735,"Take The Day Off Makeup Remover For Lids, Lashes & Lips",1.0,1.0,0.0
+all-tokens,False,CLINIQUE,P425860,Mini Dramatically Different™ Moisturizing Gel for Skin Barrier Repair,P122900,Dramatically Different™ Moisturizing Gel for Skin Barrier Repair,1.0,1.0,0.29
+all-tokens,False,COLOR WOW,P469067,"Mini Dream Coat Supernatural Anti-Frizz, Blow Dry Treatment Spray",P469065,"Dream Coat Supernatural Anti-Frizz, Blow Dry Treatment Spray",1.0,1.0,0.12
+all-tokens,False,COLOR WOW,P469075,Mini Dream Filter Pre-shampoo Mineral Remover,P469074,Dream Filter Pre-shampoo Mineral Remover,1.0,1.0,0.83
+all-tokens,False,COLOR WOW,P506908,Mini Extra Strength Dream Coat Ultra-Moisturizing Anti-Frizz Blow Dry Treatment Spray,P506465,Extra Strength Dream Coat Ultra-Moisturizing Anti-Frizz Blow Dry Treatment Spray,1.0,1.0,0.36
+all-tokens,False,Carolina Herrera,P434500,Good Girl Eau de Parfum Travel Spray with Jasmine,P420533,Good Girl Eau de Parfum with Jasmine,1.0,1.0,0.2
+all-tokens,False,Caudalie,P481818,"Mini Beauty Elixir Prep, Set, Glow Face Mist",P481817,"Beauty Elixir Prep, Set Makeup, Glow Face Mist",1.0,0.88,0.71
+all-tokens,False,Caudalie,P503655,Mini Grape Water Moisturizing Face Mist,P12045,Grape Water Moisturizing Face Mist,1.0,1.0,0.6
+all-tokens,False,Caudalie,P504887,Mini Pore Minimizing Instant Detox Mask,P395615,Pore Minimizing Instant Detox Mask,1.0,1.0,0.6
+all-tokens,False,Chloé,P509013,Chloé L'Eau de Parfum Lumineuse with Jasmine and Vanilla Travel Spray,P509015,Chloé L'Eau de Parfum Lumineuse with Jasmine and Vanilla,1.0,1.0,0.57
+all-tokens,False,Commodity,P395022,Gold Expressive Eau de Parfum with Vanilla & Sandalwood Travel Spray,P395000,Gold Expressive Eau de Parfum with Vanilla & Sandalwood,1.0,1.0,0.33
+all-tokens,False,Commodity,P502255,Milk- Personal Eau de Parfum with Marshmallow & Skin Musk Travel Spray,P502304,Milk- Personal Eau de Parfum with Marshmallow & Skin Musk,1.0,1.0,0.43
+all-tokens,False,Commodity,P502279,Paper Expressive Eau de Parfum with Sandalwood & Iso E Super Travel Spray,P502340,Paper Expressive Eau de Parfum with Sandalwood & Iso E Super,1.0,1.0,0.5
+all-tokens,False,Commodity,P502280,Milk Expressive Eau de Parfum with Marshmallow & Mahogany Wood Travel Spray,P502242,Milk Expressive Eau de Parfum with Marshmallow & Mahogany Wood,1.0,1.0,0.43
+all-tokens,False,DedCool,P500792,"01 ""Taunt"" Eau de Parfum Travel Spray",P500766,"01 ""Taunt"" Eau de Parfum",1.0,1.0,0.5
+all-tokens,False,Dermalogica,P443351,"Mini Multi-Active Toner, Hydrating Face Mist with Arnica & Lavender to Prep Skin & Boost Moisturizer Absorption",P423150,"Multi-Active Toner, Hydrating Face Mist with Arnica & Lavender to Prep Skin & Boost Moisturizer Absorption",1.0,1.0,0.71
+all-tokens,True,Dermalogica,P443352,Mini Daily Microfoliant Exfoliator,P467112,Daily Microfoliant Exfoliator Refill Pack,1.0,0.75,0.0
+all-tokens,False,Dolce&Gabbana,P377485,Light Blue Eau de Toilette Travel Spray,P516183,Light Blue Eau de Toilette with Lemon & Apple,1.0,0.67,0.5
+all-tokens,False,Dolce&Gabbana,P508454,Devotion Eau de Parfum with Citrus & Vanilla Travel Spray,P508461,Devotion Eau de Parfum with Citrus & Vanilla,1.0,1.0,0.4
+all-tokens,True,Dr. Barbara Sturm,P454936,Mini Hyaluronic Serum,P448548,Darker Skin Tones Hyaluronic Serum,1.0,0.4,0.0
+all-tokens,False,Dr. Barbara Sturm,P454937,"Mini Super Anti-Aging Serum — Anti-Aging, Firming & Hydrating Serum Against Fine Lines, Wrinkles & Loss of Elasticity (Travel Size)",P447787,"Super Anti-Aging Serum — Anti-Aging, Firming & Hydrating Serum Against Fine Lines, Wrinkles & Loss of Elasticity",1.0,1.0,0.75
+all-tokens,False,Dr. Dennis Gross Skincare,P425869,Mini Alpha Beta® Universal Daily Peel Pads,P377533,"Alpha Beta® Universal Daily AHA/BHA Exfoliating Peel Pads for Pores, Fine Lines & Texture",1.0,0.46,0.33
+all-tokens,False,Dr. Dennis Gross Skincare,P481376,Mini Alpha Beta® AHA/BHA Daily Cleansing Gel,P481340,Alpha Beta® AHA/BHA Daily Cleansing Gel,1.0,1.0,0.29
+all-tokens,False,Dr. Jart+,P506727,Mini Ceramidin™ Skin Barrier Moisturizing Cream,P504007,Ceramidin™ Skin Barrier Moisturizing Cream,1.0,1.0,0.2
+all-tokens,False,Drunk Elephant,P424378,Mini Virgin Marula Luxury Face Oil,P392245,Virgin Marula Luxury Face Oil,1.0,1.0,0.6
+all-tokens,False,Drunk Elephant,P465752,Mini Protini™ Polypeptide Moisturizer,P427421,Protini™ Polypeptide Firming Refillable Moisturizer with Peptides,1.0,0.6,0.67
+all-tokens,False,Drunk Elephant,P505783,Mini Lala Retro™ Nourishing Whipped Moisturizer with Ceramides,P446938,Lala Retro™ Nourishing Whipped Refillable Moisturizer with Ceramides,1.0,1.0,0.83
+all-tokens,False,Drybar,P440278,Mini Prep Rally Prime & Prep Detangler,P411585,Prep Rally Prime & Prep Detangler,1.0,1.0,1.0
+all-tokens,False,Ellis Brooklyn,P502030,VANILLA MILK Eau de Parfum Travel Spray,P501984,VANILLA MILK Eau de Parfum,1.0,1.0,0.25
+all-tokens,False,Ellis Brooklyn,P505235,FLORIST Eau de Parfum Travel Spray,P505218,FLORIST Eau de Parfum,1.0,1.0,0.33
+all-tokens,False,Fenty Beauty by Rihanna,P476525,Mini Pro Filt’r Soft Matte Longwear Liquid Foundation,P87985432,Pro Filt’r Soft Matte Longwear Liquid Foundation,1.0,1.0,0.12
+all-tokens,False,Fenty Beauty by Rihanna,P504240,Mini Instant Reset Brightening Overnight Recovery Gel-Cream With Niacinamide + Kalahari Melon Oil,P467250,Instant Reset Brightening Overnight Recovery Gel-Cream With Niacinamide + Kalahari Melon Oil,1.0,1.0,0.33
+all-tokens,False,Fenty Beauty by Rihanna,P506899,Mini Fat Water Niacinamide Pore-Refining Toner Serum with Barbados Cherry,P467248,Fat Water Niacinamide Pore-Refining Toner Serum with Barbados Cherry,1.0,1.0,0.67
+all-tokens,False,Givenchy,P416205,Mini Prisme Libre Illuminating & Color Correcting Loose Powder,P390722,Prisme Libre Illuminating & Color Correcting Loose Powder,1.0,1.0,0.43
+all-tokens,False,Glow Recipe,P467762,Mini Watermelon Glow PHA + BHA Pore-Tight Toner,P458219,Watermelon Glow PHA + BHA Pore-Tight Toner,1.0,1.0,0.75
+all-tokens,False,Gucci,P474952,Flora Gorgeous Gardenia Eau de Parfum Travel Spray with Pear and Brown Sugar,P474051,Flora Gorgeous Gardenia Eau de Parfum with Pear and Brown Sugar,1.0,1.0,0.5
+all-tokens,True,Gucci,P506391,Bloom Eau de Parfum Intense Travel Spray,P505161,"Bloom Eau de Parfum Intense with Jasmine, Tuberose and Lady of the Night",1.0,0.5,0.0
+all-tokens,False,HERMÈS,P474327,Twilly Eau Ginger Eau de Parfum Travel Size,P474054,Twilly Eau Ginger Eau de Parfum,1.0,1.0,0.25
+all-tokens,True,HERMÈS,P474835,Twilly d'Hermès Eau de Parfum Travel Spray,P422442,Twilly d'Hermès Eau de Parfum,1.0,1.0,0.0
+all-tokens,False,HERMÈS,P505955,Un Jardin sur le Nil Eu de Toilette Travel Spray,P375126,Un Jardin sur le Nil Eau de Toilette,1.0,1.0,0.14
+all-tokens,False,HERMÈS,P507980,Twilly Tutti Eau de Parfum Travel Spray,P508012,Tutti Twilly d'Hermès Eau de Parfum,1.0,0.57,0.25
+all-tokens,False,HUDA BEAUTY,P471242,Mini Easy Bake Loose Baking & Setting Powder,P433402,Easy Bake Blurring Loose Baking & Setting Powder,1.0,0.86,0.33
+all-tokens,False,HUDA BEAUTY,P474837,Mini LEGIT LASHES Double-Ended Volumizing and Lengthening Mascara,P98466189,LEGIT LASHES Double-Ended Volumizing and Lengthening Mascara,1.0,1.0,0.71
+all-tokens,False,Hourglass,P424900,Mini Ambient Lighting Blush,P384963,Ambient Lighting Blush Collection,1.0,0.75,0.33
+all-tokens,False,Hourglass,P424901,Mini Ambient Lighting Bronzer,P395697,Ambient® Lighting Bronzer,1.0,1.0,0.33
+all-tokens,False,Hourglass,P424902,Mini Ambient Strobe Lighting Powder,P404706,Ambient® Strobe Lighting Powder,1.0,1.0,0.25
+all-tokens,True,Hourglass,P425840,Mini Ambient® Lighting Powder,P404706,Ambient® Strobe Lighting Powder,1.0,0.75,0.0
+all-tokens,False,Hourglass,P433813,Mini Veil™ Translucent Setting Powder - Talc Free,P430240,Veil™ Translucent Setting Powder - Talc Free,1.0,1.0,0.67
+all-tokens,False,Hourglass,P467953,Mini Vanish Airbrush Full Coverage Longwear Concealer,P454042,Vanish Airbrush Full Coverage Longwear Concealer,1.0,1.0,0.67
+all-tokens,False,ILIA,P444439,Mini Limitless Lash Lengthening Mascara,P431750,Limitless Lash Mascara - Clean Lengthening Mascara,1.0,0.8,0.75
+all-tokens,False,IT Cosmetics,P427641,Mini Confidence in a Cream Hydrating Moisturizer,P411403,Confidence in a Cream Anti-Aging Hydrating Moisturizer,1.0,0.67,0.5
+all-tokens,True,JIMMY CHOO,P506378,I Want Choo Eau de Parfum Travel Spray,P505124,I Want Choo Eau de Parfum,1.0,1.0,0.0
+all-tokens,False,JIMMY CHOO,P506494,I Want Choo Forever Eau de Parfum Travel Spray,P506473,I Want Choo Forever Eau de Parfum,1.0,1.0,0.17
+all-tokens,False,JVN,P500882,Mini Complete Hydrating Air Dry Hair Cream,P476438,Complete Hydrating Air Dry Hair Styling Cream,1.0,0.86,0.5
+all-tokens,False,JVN,P505706,Mini Complete Instant Recovery Heat Protectant Leave-In Serum,P476440,Complete Instant Recovery Heat Protectant Leave-In Serum,1.0,1.0,0.71
+all-tokens,False,Juliette has a gun,P408988,Lady Vengeance Travel Spray,P395311,Lady Vengeance,1.0,1.0,1.0
+all-tokens,False,Juliette has a gun,P431233,Moscow Mule Travel Spray,P431232,Moscow Mule,1.0,1.0,1.0
+all-tokens,False,Juliette has a gun,P470220,PEAR INC. Travel Spray,P470219,PEAR INC.,1.0,1.0,1.0
+all-tokens,False,Juliette has a gun,P482683,Magnolia Bliss Eau de Parfum Travel Spray,P482682,Magnolia Bliss Eau de Parfum,1.0,1.0,0.5
+all-tokens,False,Juliette has a gun,P508209,Ode to Dullness Eau de Parfum Travel Spray,P508143,Ode to Dullness Eau de Parfum,1.0,1.0,0.6
+all-tokens,False,KAYALI,P468450,VANILLA | 28 Eau de Parfum Travel Spray,P439406,VANILLA | 28 Eau de Parfum,1.0,1.0,0.25
+all-tokens,False,KAYALI,P479718,EDEN JUICY APPLE  | 01 Eau de Parfum Travel Spray,P479717,EDEN JUICY APPLE | 01 Eau De Parfum,1.0,1.0,0.67
+all-tokens,False,KAYALI,P508713,OUDGASM CAFÉ OUD | 19 Eau de Parfum Intense Travel Spray,P508764,OUDGASM CAFÉ OUD | 19 Eau de Parfum Intense,1.0,1.0,0.29
+all-tokens,False,KAYALI,P508733,OUDGASM VANILLA OUD | 36 Eau de Parfum Intense Travel Spray,P508207,OUDGASM VANILLA OUD | 36 Eau de Parfum Intense,1.0,1.0,0.29
+all-tokens,False,KILIAN Paris,P480179,Angels Share Eau De Parfum Travel Spray with Tonka Bean,P465332,Angels Share Eau de Parfum with Tonka Bean,1.0,1.0,0.67
+all-tokens,False,Kiehl's Since 1851,P422510,Mini Ultra Facial Moisturizing Cream with Squalane,P421996,Ultra Facial Refillable Moisturizing Cream with Squalane,1.0,1.0,0.2
+all-tokens,False,Kiehl's Since 1851,P431735,Mini Ultimate Strength Protective & Soothing Hand Salve for Dryness,P422640,Ultimate Strength Protective & Soothing Hand Salve for Dryness,1.0,1.0,0.86
+all-tokens,False,Kiehl's Since 1851,P435804,Mini Crème de Corps Hydrating Body Lotion with Squalane,P421999,Crème de Corps Refillable Hydrating Body Lotion with Squalane,1.0,1.0,0.43
+all-tokens,False,Kiehl's Since 1851,P435805,Mini Avocado Eye Cream for Brightening & Depuffing,P422000,Avocado Eye Cream for Brightening & Depuffing,1.0,1.0,0.6
+all-tokens,False,Kiehl's Since 1851,P445951,Mini Midnight Recovery Concentrate Moisturizing Face Oil Serum,P421998,Midnight Recovery Concentrate Moisturizing Face Oil Serum,1.0,1.0,0.71
+all-tokens,False,Kiehl's Since 1851,P509301,Mini Ultra Facial Gentle Face Cleanser with Glycerin,P422007,Ultra Facial Gentle Face Cleanser with Glycerin,1.0,1.0,0.5
+all-tokens,False,Kosas,P503996,Mini Revealer Super Creamy + Brightening Concealer with Caffeine and Hyaluronic Acid,P456151,Revealer Super Creamy + Brightening Concealer with Caffeine and Hyaluronic Acid,1.0,1.0,0.78
+all-tokens,False,L'Occitane,P425327,Mini Hand Cream,P307907,Nourishing and Protective Shea Butter Hand Cream,1.0,0.33,0.5
+all-tokens,False,LANEIGE,P505895,Mini Cream Skin Milky Toner with Ceramides & Peptides for Nourishing Hydration,P505897,Cream Skin Milky Toner with Ceramides & Peptides for Nourishing Hydration,1.0,1.0,0.88
+all-tokens,True,LAWLESS,P483470,Mini Forget The Filler Lip Plumper Line Smoothing Gloss,P468175,Forget The Filler Lip Plumper Line Smoothing Gloss,1.0,1.0,0.0
+all-tokens,False,La Mer,P461950,Mini The Concentrate Serum for Barrier Repair and Hydration,P461949,The Concentrate Serum for Barrier Repair and Hydration,1.0,1.0,0.4
+all-tokens,False,La Mer,P505144,Mini The Moisturizing Soft Cream Moisturizer for Hydration and Barrier Repair,P505160,The Moisturizing Soft Cream Moisturizer for Hydration and Barrier Repair,1.0,1.0,0.57
+all-tokens,False,Lancôme,P467209,Mini Lash Idôle Lengthening & Volumizing Mascara,P467208,Lash Idôle Lengthening & Volumizing Mascara,1.0,1.0,0.17
+all-tokens,False,LoveShackFancy,P507864,Moondance Eau de Parfum with Velvet Rose & Sandalwood Travel Spray,P507889,Moondance Eau de Parfum with Velvet Rose & Sandalwood,1.0,1.0,0.67
+all-tokens,False,MAKE UP FOR EVER,P468191,Mini Step 1 Primer Pore Minimizer,P468182,Step 1 Primer Pore Minimizer,1.0,1.0,0.4
+all-tokens,False,MILK MAKEUP,P432232,Mini KUSH High Volumizing Mascara,P429903,KUSH High Volumizing Mascara,1.0,1.0,0.75
+all-tokens,False,MILK MAKEUP,P441814,Mini Hydro Grip Hydrating Makeup Primer with Hyaluronic Acid + Niacinamide,P441813,Hydro Grip Hydrating Makeup Primer with Hyaluronic Acid + Niacinamide,1.0,1.0,0.33
+all-tokens,False,Maison Margiela,P408227,'REPLICA' Jazz Club Eau de Toilette Travel Spray with Tobacco Leaf & Rum,P385350,"'REPLICA' Jazz Club Eau de Toilette with Tobacco Leaf, Pink Pepper, and Rum",1.0,0.8,0.62
+all-tokens,False,Maison Margiela,P432622,'REPLICA' By the Fireplace Eau de Toilette Travel Spray with Chestnut & Vanilla,P404758,"‘REPLICA' By the Fireplace Eau de Toilette with Chestnut, Vanilla, and Clove Oil",1.0,0.78,0.57
+all-tokens,False,Maison Margiela,P440448,REPLICA’ Lazy Sunday Morning Eau de Toilette Travel Spray with White Musk & Iris,P385354,"’REPLICA’ Lazy Sunday Morning Eau de Toilette with White Musk, Lily of the Valley, and Iris",1.0,0.82,0.44
+all-tokens,False,Maison Margiela,P503924,REPLICA’ On A Date Eau de Toilette Travel Spray with Rose & Black Currant,P503905,REPLICA’ On A Date Eau de Toilette with Rose & Black Currant,1.0,1.0,0.5
+all-tokens,False,Marc Jacobs Beauty,P377465,Daisy Eau so Fresh Eau de Toilette Travel Spray with Raspberry & Musk,P281424,Daisy Eau So Fresh Eau de Toilette with Raspberry & Musk,1.0,1.0,0.14
+all-tokens,False,Marc Jacobs Beauty,P474347,Perfect Intense Eau de Parfum Travel Spray,P474346,Perfect Intense Eau de Parfum with Jasmine & Sandalwood,1.0,0.67,0.25
+all-tokens,True,Moroccanoil,P426011,Mini Moroccanoil Treatment Hair Oil,P412090,Moroccanoil Treatment Hair Oil,1.0,1.0,0.0
+all-tokens,False,Moroccanoil,P426012,Mini Moroccanoil Treatment Light Hair Oil for Fine Hair,P412091,Moroccanoil Treatment Light Hair Oil for Fine Hair,1.0,1.0,0.33
+all-tokens,False,Moroccanoil,P426013,Mini Dry Shampoo Dark Tones,P412098,Dry Shampoo Dark Tones,1.0,1.0,0.25
+all-tokens,False,Moroccanoil,P426014,Mini Dry Shampoo Light Tones,P412099,Dry Shampoo Light Tones,1.0,1.0,0.25
+all-tokens,False,Moroccanoil,P426711,Mini Moisture Repair Shampoo for Damaged Hair,P412085,Moisture Repair Shampoo for Damaged Hair,1.0,1.0,0.2
+all-tokens,False,Moroccanoil,P426712,Mini Moisture Repair Conditioner for Damaged Hair,P412084,Moisture Repair Conditioner for Damaged Hair,1.0,1.0,0.2
+all-tokens,False,Moroccanoil,P427331,Mini Hydrating Shampoo with Argan Oil,P412087,Hydrating Shampoo with Argan Oil,1.0,1.0,0.25
+all-tokens,False,Moroccanoil,P427332,Mini Hydrating Conditioner with Argan Oil,P412086,Hydrating Conditioner with Argan Oil,1.0,1.0,0.25
+all-tokens,False,Moroccanoil,P427338,Mini Smoothing Lotion,P425012,Smoothing Lotion,1.0,1.0,0.5
+all-tokens,False,Moroccanoil,P429254,Mini Dry Body Oil,P412115,Dry Body Oil,1.0,1.0,0.67
+all-tokens,False,Moroccanoil,P432283,Mini Protect & Prevent Spray,P432032,Protect & Prevent Spray,1.0,1.0,1.0
+all-tokens,False,Moroccanoil,P463074,Mini Detangling All in One Leave-In Conditioner for all hair types,P462387,Detangling All in One Leave-In Conditioner for all hair types,1.0,1.0,0.71
+all-tokens,False,Moroccanoil,P474354,Mini Fragrance Originale Hair & Body Fragrance Mist with Spicy Amber & Sweet Florals,P474353,Fragrance Originale Hair & Body Fragrance Mist with Spicy Amber & Sweet Florals,1.0,1.0,0.89
+all-tokens,True,Mugler,P433658,Alien Eau de Parfum Travel Spray,P196516,Alien Eau de Parfum with Cashmere Wood & Amber,1.0,0.5,0.0
+all-tokens,False,Mugler,P475134,Alien Goddess Eau de Parfum Travel Spray with Bourbon Vanilla & Jasmine,P475133,Alien Goddess Eau de Parfum with Bourbon Vanilla & Jasmine,1.0,1.0,0.57
+all-tokens,False,NARS,P422077,Mini Radiant Creamy Concealer with Medium Coverage,P377873,Radiant Creamy Concealer with Hydrating Medium Coverage,1.0,0.83,0.6
+all-tokens,True,NARS,P480462,Mini Light Reflecting Setting Powder,P377757,Light Reflecting Pressed Setting Powder,1.0,0.8,0.0
+all-tokens,False,NEST New York,P503898,Balinese Coconut Perfume Oil Rollerball,P503925,Balinese Coconut Perfume Oil,1.0,1.0,0.5
+all-tokens,False,ONE/SIZE by Patrick Starrr,P500501,Mini Fantasize Lifting & Lengthening Mascara,P500481,Fantasize Lifting & Lengthening Mascara,1.0,1.0,1.0
+all-tokens,False,OUAI,P457420,"Mini North Bondi Conditioning, Detangling, and Frizz Fighting Leave-in Conditioner",P428222,"North Bondi Conditioning, Detangling, and Frizz Fighting Leave-in Conditioner",1.0,1.0,0.62
+all-tokens,False,OUAI,P458951,Mini Lightweight Heat-Protecting Hair Oil for Frizz Control,P406922,Lightweight Heat-Protecting Hair Oil for Frizz Control,1.0,1.0,0.86
+all-tokens,False,OUAI,P479723,Mini Detox Clarifying Shampoo with Apple Cider Vinegar,P457223,Detox Clarifying Shampoo with Apple Cider Vinegar,1.0,1.0,0.83
+all-tokens,False,OUAI,P504188,Mini St. Barts Cleansing Scalp & Body Sugar Scrub,P472330,St. Barts Cleansing Scalp & Body Sugar Scrub,1.0,1.0,0.29
+all-tokens,False,PATTERN by Tracee Ellis Ross,P475997,Mini Curl Gel,P474852,Curl Gel Crème,1.0,0.5,0.5
+all-tokens,False,PATTERN by Tracee Ellis Ross,P475999,Mini Leave-In Conditioner,P474849,Leave-In Conditioner for Curls & Coils,1.0,0.5,0.5
+all-tokens,False,PHLUR,P482717,Missing Person Eau de Parfum Travel Spray,P482716,Missing Person Eau de Parfum,1.0,1.0,0.5
+all-tokens,False,PHLUR,P506791,Father Figure Eau de Parfum Travel Spray,P506729,Father Figure Eau De Parfum,1.0,1.0,0.5
+all-tokens,False,Prada,P387903,Candy Eau de Parfum Travel Spray with Caramel & White Musk,P376127,Candy Eau de Parfum with Caramel & White Musk,1.0,1.0,0.33
+all-tokens,False,Prada,P478314,Luna Rossa Ocean Eau de Toilette Travel Spray with Bergamot & Iris,P475152,Luna Rossa Ocean Eau de Toilette with Bergamot & Iris,1.0,1.0,0.29
+all-tokens,False,Prada,P501173,Paradoxe Eau de Parfum Travel Spray with White Musk & Amber,P501198,Paradoxe Eau de Parfum with White Musk & Amber,1.0,1.0,0.33
+all-tokens,False,Prada,P506335,Luna Rossa Ocean Eau de Parfum Travel Spray with Vetiver & Iris,P506036,Luna Rossa Ocean Eau de Parfum with Vetiver & Iris,1.0,1.0,0.29
+all-tokens,False,Pureology,P461602,Mini Hydrate Shampoo For Dry Hair,P461601,Hydrate Shampoo For Dry Hair,1.0,1.0,0.25
+all-tokens,False,Pureology,P461609,Mini Hydrate Sheer Conditioner for Fine Hair,P461608,Hydrate Sheer Conditioner for Fine Hair,1.0,1.0,0.2
+all-tokens,False,Pureology,P461617,Mini Strength Cure Blonde Purple Shampoo,P461616,Strength Cure Blonde Purple Shampoo,1.0,1.0,0.2
+all-tokens,False,Pureology,P474082,Mini Nanoworks Gold Conditioner,P461631,Nanoworks Gold Strengthening Hydrating Conditioner,1.0,0.6,0.33
+all-tokens,False,Rabanne,P506806,Phantom Eau de Toilette Travel Spray,P475147,Phantom Eau de Toilette with Woody Vanilla,1.0,0.6,0.33
+all-tokens,False,Saie,P468207,Mini Glowy Super™ Gel Lightweight Multipurpose Illuminator & Liquid Highlighter,P468206,Glowy Super™ Gel Lightweight Multipurpose Illuminator & Liquid Highlighter,1.0,1.0,0.75
+all-tokens,False,Smashbox,P479989,Mini Photo Finish Primerizer+ Hydrating Face Primer with Hyaluronic Acid,P479985,Photo Finish Primerizer+ Hydrating Face Primer with Hyaluronic Acid,1.0,1.0,0.5
+all-tokens,False,Sol de Janeiro,P421481,Mini Cheirosa 62 Bum Bum Hair & Body Perfume Mist,P417312,Cheirosa 62 Bum Bum Hair & Body Refillable Perfume Mist,1.0,1.0,0.29
+all-tokens,False,Sol de Janeiro,P470126,Mini Bom Dia Bright™ Visibly Brightening and Smoothing Body Cream with Vitamin C,P470125,Bom Dia Bright™ Visibly Brightening and Smoothing Body Cream with Vitamin C,1.0,1.0,0.6
+all-tokens,False,Sol de Janeiro,P503096,SOL Cheirosa ‘62 Eau de Parfum Travel Spray,P503113,SOL Cheirosa '62 Eau de Parfum,1.0,1.0,0.6
+all-tokens,False,Sol de Janeiro,P505159,Mini Cheirosa 87 Rio Radiance Hair & Body Perfume Mist,P505154,Cheirosa 87 Rio Radiance Hair & Body Perfume Mist,1.0,1.0,0.38
+all-tokens,False,Sol de Janeiro,P505352,Mini Brazilian Joia™ Strengthening + Smoothing Conditioner,P505372,Brazilian Joia™ Strengthening + Smoothing Conditioner,1.0,1.0,0.17
+all-tokens,False,Sulwhasoo,P476730,Mini Gentle Cleansing Oil Makeup Remover,P450633,Gentle Cleansing Oil Makeup Remover,1.0,1.0,0.6
+all-tokens,False,Sunday Riley,P416139,Mini C.E.O. Vitamin C Brightening Rich Hydration Moisturizer,P418629,C.E.O. Vitamin C Brightening Rich Hydration Moisturizer,1.0,1.0,0.25
+all-tokens,False,Sunday Riley,P503909,Mini C.E.O. Afterglow Brightening Vitamin C Moisturizer,P483076,C.E.O. Afterglow Brightening Vitamin C Moisturizer,1.0,1.0,0.14
+all-tokens,False,TOM FORD,P433669,Soleil Blanc Eau de Parfum Travel Spray with Amber & Bergamot,P406526,Soleil Blanc Eau de Parfum with Amber & Bergamot,1.0,1.0,0.33
+all-tokens,False,TOM FORD,P433671,Oud Wood Eau de Parfum Travel Spray with Sandalwood & Pink Pepper,P393167,Oud Wood Eau de Parfum with Sandalwood & Pink Pepper,1.0,1.0,0.57
+all-tokens,False,TOM FORD,P448464,Fucking Fabulous Eau de Parfum Fragrance Travel Spray with Leather & Almond,P429291,Fucking Fabulous Eau de Parfum Fragrance with Leather & Almond,1.0,1.0,0.43
+all-tokens,False,TOM FORD,P464308,Lost Cherry Eau de Parfum Travel Spray with Black Cherry & Rose,P436489,Lost Cherry Eau de Parfum with Black Cherry & Rose,1.0,1.0,0.5
+all-tokens,False,Tatcha,P422069,Mini Luminous Dewy Skin Mist 2-in-1 Hydrator & Finishing Spray,P399623,Luminous Dewy Skin Mist 2-in-1 Hydrator & Finishing Spray,1.0,1.0,0.75
+all-tokens,False,Tatcha,P460512,Mini Liquid Silk Canvas: Featherweight Protective Primer,P456446,The Liquid Silk Canvas: Featherweight Protective Primer,1.0,1.0,0.33
+all-tokens,False,The 7 Virtues,P502250,Vanilla Woods Eau de Parfum Travel Spray,P428713,Vanilla Woods Eau de Parfum,1.0,1.0,0.5
+all-tokens,False,The 7 Virtues,P504124,Santal Vanille Eau de Parfum Travel Spray,P468853,Santal Vanille Eau de Parfum,1.0,1.0,0.5
+all-tokens,False,The 7 Virtues,P504991,Coconut Sun Eau de Parfum Travel Spray,P504855,Coconut Sun Eau de Parfum,1.0,1.0,0.5
+all-tokens,False,The 7 Virtues,P508699,Cherry Ambition Eau de Parfum with Marshmallow Travel Spray,P508411,Cherry Ambition Eau de Parfum with Marshmallow,1.0,1.0,0.6
+all-tokens,False,The INKEY List,P478029,Mini Fulvic Acid Brightening Cleanser,P468707,Fulvic Acid Brightening Cleanser,1.0,1.0,0.75
+all-tokens,False,The Ordinary,P482328,Mini Natural Moisturizing Factors + Hyaluronic Acid Daily Moisturizer,P427414,Natural Moisturizing Factors + Hyaluronic Acid Daily Moisturizer,1.0,1.0,0.25
+all-tokens,True,Too Faced,P425608,Mini Better Than Sex Volumizing & Lengthening Mascara,P381000,Better Than Sex Volumizing & Lengthening Mascara,1.0,1.0,0.0
+all-tokens,True,Too Faced,P425855,Mini Better Than Sex Waterproof Mascara,P506248,Better Than Sex Foreplay Waterproof Mascara Primer,1.0,0.71,0.0
+all-tokens,False,Too Faced,P428037,Mini Hangover 3-in-1 Replenishing Primer & Setting Spray,P420166,Hangover 3-in-1 Replenishing Primer & Setting Spray,1.0,1.0,0.83
+all-tokens,False,Tower 28 Beauty,P448853,Mini SOS Daily Hypochlorous Acid Spray for Breakouts & Redness,P448852,SOS Daily Hypochlorous Acid Spray for Breakouts & Redness,1.0,1.0,0.5
+all-tokens,False,Valentino,P449117,Donna Born In Roma Eau de Parfum Travel Spray with Bourbon Vanilla & Jasmine,P449116,Donna Born in Roma Eau de Parfum with Bourbon Vanilla & Jasmine,1.0,1.0,0.25
+all-tokens,False,Valentino,P462410,Voce Viva Eau de Parfum Travel Spray with Mandarin & Orange Blossom,P462409,Voce Viva Eau de Parfum with Mandarin & Orange Blossom,1.0,1.0,0.43
+all-tokens,False,Vegamour,P500299,Mini GRO Revitalizing Shampoo for Thinning Hair,P473003,GRO Revitalizing Shampoo for Thinning Hair,1.0,1.0,0.2
+all-tokens,False,Vegamour,P500312,Mini GRO Revitalizing Conditioner for Thinning Hair,P473004,GRO Revitalizing Conditioner for Thinning Hair,1.0,1.0,0.2
+all-tokens,False,Versace,P413150,Dylan Blue Pour Homme Eau de Toilette Travel Spray,P411325,Dylan Blue Pour Homme Eau de Toilette,1.0,1.0,0.33
+all-tokens,False,Versace,P431915,Dylan Blue Pour Femme Eau de Parfum Travel Spray,P429981,Dylan Blue Pour Femme Eau de Parfum,1.0,1.0,0.33
+all-tokens,False,Versace,P442727,Eros Flame Eau de Parfum Travel Spray,P442726,Eros Flame Eau de Parfum,1.0,1.0,0.25
+all-tokens,False,Versace,P505126,Dylan Purple Eau de Parfum Travel Spray,P504912,Dylan Purple Eau de Parfum,1.0,1.0,0.25
+all-tokens,True,Viktor&Rolf,P426305,Flowerbomb Mini,P255506,Flowerbomb Eau de Parfum with Vanilla & Jasmine,1.0,0.2,0.0
+all-tokens,False,Viktor&Rolf,P446119,Flowerbomb Eau de Parfum Travel Spray with Vanilla & Jasmine,P255506,Flowerbomb Eau de Parfum with Vanilla & Jasmine,1.0,1.0,0.2
+all-tokens,False,Viktor&Rolf,P479474,Flowerbomb Ruby Orchid Eau de Parfum Travel Spray with Vanilla & Peach,P479358,Flowerbomb Ruby Orchid Eau de Parfum with Vanilla & Peach,1.0,1.0,0.43
+all-tokens,False,Virtue,P455002,"Mini Hydrating Recovery Conditioner for Dry, Damaged & Colored Hair",P448734,"Hydrating Recovery Conditioner for Dry, Damaged & Colored Hair",1.0,1.0,0.14
+all-tokens,False,Youth To The People,P441644,Mini Superfood Gentle Antioxidant Refillable Cleanser,P411387,Superfood Hydrating Gentle Antioxidant Refillable Cleanser,1.0,0.8,0.75
+all-tokens,False,Youth To The People,P461555,Mini Superberry Hydrate + Glow Dream Night Cream + Mask with Vitamin C,P440307,Superberry Hydrate + Glow Dream Night Cream + Mask with Vitamin C,1.0,1.0,0.5
+all-tokens,False,Youth To The People,P509265,Mini Superfood Air-Whip Lightweight Face Moisturizer with Hyaluronic Acid,P411388,Superfood Air-Whip Lightweight Face Moisturizer with Hyaluronic Acid,1.0,1.0,0.75
+all-tokens,False,Yves Saint Laurent,P396446,Black Opium Travel Spray with Coffee & Vanilla,P504062,Black Opium Le Parfum with Vanilla & Coffee,1.0,0.67,0.25
+all-tokens,False,Yves Saint Laurent,P410638,Mon Paris Eau de Parfum Travel Spray with Patchouli & Florals,P410181,Mon Paris Eau de Parfum Patchouli & Florals,1.0,1.0,0.67
+all-tokens,False,Yves Saint Laurent,P448106,Libre Eau De Parfum Travel Spray with Orange Blossom & Lavender,P448102,Libre Eau De Parfum with Orange Blossom & Lavender,1.0,1.0,0.17
+all-tokens,False,Yves Saint Laurent,P504075,Black Opium Le Parfum Travel Spray with Vanilla & Coffee,P504062,Black Opium Le Parfum with Vanilla & Coffee,1.0,1.0,0.33
+all-tokens,False,Yves Saint Laurent,P507222,MYSLF Eau de Parfum Travel Spray with Fresh Accord  & Warm Woods,P507223,MYSLF Eau de Parfum with Fresh Accord & Warm Woods,1.0,1.0,0.43
+all-tokens,False,caliray,P479309,Mini Come Hell or High Water 24-hour Volumizing & Lengthening Tubing Mascara,P479308,Come Hell or High Water 24-hour Volumizing & Lengthening Tubing Mascara,1.0,1.0,0.82
+all-tokens,False,dae,P467610,Mini Signature Shampoo,P457410,Signature Shampoo,1.0,1.0,0.5
+all-tokens,False,dae,P467611,Mini Signature Conditioner,P457409,Signature Conditioner,1.0,1.0,0.5
+all-tokens,False,fresh,P426821,Mini Rose Face Mask,P12336,Rose Face Mask,1.0,1.0,0.33
+all-tokens,False,fresh,P436353,Mini Rose & Hyaluronic Acid Deep Hydration Toner,P417936,Rose & Hyaluronic Acid Deep Hydration Toner,1.0,1.0,0.17
+all-tokens,False,fresh,P472466,Mini Rose & Hyaluronic Acid Deep Hydration Moisturizer,P471237,Rose & Hyaluronic Acid Deep Hydration Moisturizer,1.0,1.0,0.17
+all-tokens,True,stila,P482319,Mini Stay All Day® Waterproof Liquid Eye Liner,P253818,Stay All Day® Waterproof Liquid Eye Liner,1.0,1.0,0.0
+all-tokens,False,tarte,P439932,mini lights camera lashes™ volumizing mascara,P111902,"lights, camera, lashes™ 4-in-1 volumizing mascara",1.0,0.71,0.2
+all-tokens,False,tarte,P450535,mini Amazonian clay 12-hour powder blush,P278610,Amazonian clay 12-hour powder blush,1.0,1.0,0.33
+all-tokens,False,tarte,P505137,mini maracuja juicy glow medium coverage skin tint,P505127,maracuja juicy glow lightweight skin tint maracuja juicy glow medium coverage skin tint,1.0,0.88,0.71
+likely,False,Chloé,P377459,"Chloé Eau de Parfum with Lychee, Rose & Amber Rollerball",P256308,Chloé Eau de Parfum with Rose & Amber,0.83,0.83,0.33
+likely,False,Dr. Dennis Gross Skincare,P425868,Mini Alpha Beta® Extra Strength Daily Peel Pads,P269122,"Alpha Beta® Extra Strength Exfoliating AHA/BHA Peel Pads for Pores, Dark Spots & Texture",0.86,0.43,0.14
+likely,False,IT Cosmetics,P446901,Mini Bye Bye Under Eye Full Coverage Anti-Aging Water-Resistant Concealer,P437987,Bye Bye Under Eye Anti-Aging Full Coverage Concealer with Hyaluronic Acid,0.8,0.67,0.5
+likely,False,Kate Somerville,P425877,Mini ExfoliKate® Intensive Pore Exfoliating Treatment,P232915,ExfoliKate Intensive Exfoliating Treatment AHA + BHA Resurfacing Facial,0.8,0.4,0.4
+likely,False,Sol de Janeiro,P482317,Mini Beija Flor™ Body Collagen-Boosting Elasti-Cream with Polypeptide and Bio-Retinol,P482316,Beija Flor™ Body Collagen-Boosting Elasti-Cream with Polypeptides and Bio-Retinol,0.9,0.82,0.6
+likely,True,Valentino,P504337,Donna Born In Roma Intense Eau de Parfum Travel Spray with Vanilla & Jasmine,P504312,Donna Born in Roma Intense Eau de Parfum with Amber & Jasmine,0.88,0.78,0.0
+likely,False,Versace,P432419,Dylan Blue Pour Femme Ovetto Spray,P429981,Dylan Blue Pour Femme Eau de Parfum,0.8,0.57,0.2
+likely,False,Westman Atelier,P504318,Mini Petite Face Trace Cream Contour Stick,P468433,Face Trace Cream Contour Stick,0.83,0.83,0.5
+likely,False,caliray,P505634,Mini So Blown Blurring & Hydrating Tripeptide Makeup Primer,P501569,So Blown Blurring & Hydrating Collagen Peptide Makeup Primer,0.86,0.67,0.71
+weak,True,Fenty Beauty by Rihanna,P443790,Mini Pro Filt’r Instant Retouch Setting Powder,P04897543,Pro Filt'r Instant Retouch Primer,0.71,0.62,0.0
+weak,False,Henry Rose,P506254,Jake's House Eau de Parfum Travel Spray,P506261,Jake House Eau de Parfum with Fresh Marine + Neroli,0.75,0.33,0.25
+weak,False,Living Proof,P503236,Mini Perfect hair Day Healthy Hair Perfector,P383223,Perfect Hair Day (PhD) 5-in-1 Styling Treatment,0.6,0.3,0.4
+weak,True,Smashbox,P479986,Mini Photo Finish Correct Anti-Redness Face Primer,P479984,Photo Finish Illuminate Glow Face Primer,0.57,0.44,0.0
+weak,False,Smashbox,P479988,Mini Photo Finish Control Mattifying Face Primer with Salicylic Acid,P479985,Photo Finish Primerizer+ Hydrating Face Primer with Hyaluronic Acid,0.62,0.45,0.12
+weak,True,TWEEZERMAN,P442763,Micro Mini Pink Perfection Tweezer Set,P377005,Pink Perfection Slant Tweezer,0.6,0.5,0.0
+weak,False,Urban Decay,P500430,Mini Naked Eyeshadow Palette,P384099,Naked3 Soft Pink Eyeshadow Palette,0.67,0.33,0.33
+weak,False,Verb,P507524,Mini Glossy Shine Heat Protectant Spray,P484084,"High Shine, Glossy Shine Spray with Heat Protection",0.75,0.5,0.25
+weak,True,Versace,P399835,Bright Crystal Ovetto Mini Spray,P163103,Bright Crystal Eau de Toilette,0.67,0.4,0.0
+none,True,Anastasia Beverly Hills,P507673,Mini Brow Genius® Eyebrow Conditioning Serum,P462328,Brow Pen Superfine Waterproof Detail Eyebrow Pen,0.4,0.22,0.0
+none,True,Anastasia Beverly Hills,P512500,Mini Spice Eye Palette,P69305,Fill & Define Powder-Finish Perfect Brow Pencil,0.0,0.0,0.0
+none,True,Fenty Beauty by Rihanna,P472311,Mini Total Cleans'r Makeup Removing Cleanser,P444149,Pro Kiss'r Luscious Lip Balm,0.17,0.09,0.0
+none,False,ILIA,P471246,Mini Blue Light Protect + Set Mist,P411848,Multi-Stick Cream Blush + Highlighter + Lip Tint,0.17,0.08,0.17
+none,True,Jo Malone London,P456171,Wood Sage & Sea Salt/ English Pear & Freesia Mini Set,P417179,Wood Sage & Sea Salt Cologne,0.5,0.44,0.0
+none,True,NARS,P440527,Mini Climax Mascara,P517845,"The Multiple Soft Blur Blush Stick for Cheeks, Eyes and Lips",0.0,0.0,0.0
+none,False,NEST New York,P440638,Wild Poppy Eau de Parfum Travel Spray,P385317,Indigo Eau de Parfum,0.5,0.4,0.25
+none,True,Origins,P440929,Mini Original Skin™ Retexturizing Mask with Rose Clay,P297524,Clear Improvement™ Active Charcoal Face Mask to Clear Pores,0.17,0.08,0.0
+none,False,PATRICK TA,P501156,Mini Major Brow Lamination Gel,P473146,Major Dimension Precision Gel Eyeliner,0.5,0.29,0.25
+none,True,PHLUR,P482725,Apricot Privée Eau de Parfum Travel Spray,P506729,Father Figure Eau De Parfum,0.4,0.29,0.0
+none,True,Pureology,P461604,Mini Hydrate Conditioner for Medium to Thick Hair,P461603,Hydrate Conditioner For Dry Hair,0.5,0.43,0.0
+none,False,Rare Beauty by Selena Gomez,P508264,Mini Soft Pinch Liquid Blush,P505568,Soft Pinch Tinted Lip Oil Stain,0.5,0.25,0.25
+none,True,Smashbox,P422463,Mini Photo Finish Smooth & Blur Oil-Free Foundation Primer,P479984,Photo Finish Illuminate Glow Face Primer,0.38,0.27,0.0
+none,True,Sol de Janeiro,P425318,Mini Brazilian Bum Bum Visibly Firming Refillable Body Cream with Caffeine-Rich Guaranà,P503931,Bum Bum Firmeza Firming & Debloating Body Oil,0.33,0.25,0.0
+none,False,Too Faced,P471584,Mini Lip Injection Maximum Plump Extra Strength Hydrating Lip Plumper,P505390,Lip Injection Extreme Lip Shaper Plumping Lip Liner,0.25,0.17,0.25
+none,False,Urban Decay,P388225,Naked2 Basics Matte Eyeshadow Palette,P384099,Naked3 Soft Pink Eyeshadow Palette,0.4,0.25,0.2
+none,False,Yves Saint Laurent,P507353,Couture Mini Clutch Eyeshadow Palette,P400701,Rouge Pur Couture Caring Satin Lipstick with Ceramides,0.25,0.1,0.25
+none,True,amika,P426173,Mini Soulfood Nourishing Mask,P431197,Normcore Nourishing Conditioner,0.33,0.2,0.0
+none,False,fresh,P425894,Mini Soy pH-Balanced Hydrating Face Wash,P7880,Soy Hydrating Gentle Face Cleanser,0.5,0.38,0.17
+none,True,tarte,P275309,picture perfect™ eyelash curler,P506268,maracuja juicy lip pH powered plumping shift with hyaluronic acid,0.0,0.0,0.0
