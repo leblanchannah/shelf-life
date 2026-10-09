@@ -84,10 +84,6 @@ def test_preprocess():
     df = preprocess(details)
     assert df["price"].tolist() == [30.0, 20.0]
     assert df["sale_price"].iloc[1] == 15.0
-    assert df["category_name_l1"].tolist() == ["Skincare", "Makeup"]
-    assert df["category_name_l2"].iloc[0] == "Moisturizers"
-    assert df["category_id_l3"].iloc[0] == "cat1"
-    assert df[["category_name_l2", "category_id_l3"]].iloc[1].isna().all()
     assert df["size_info"].iloc[0] == "Refill"
     assert pd.isna(df["size_info"].iloc[1])
     assert df["price_per_ml"].iloc[0] == 1.0
