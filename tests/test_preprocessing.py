@@ -43,6 +43,8 @@ def _vols(*pairs):
         ("0.03 oz/ 2 x 0.8 g", "solid", _vols((0.03, "oz"), (0.8, "g")), "x2"),
         ("2 oz / 60 ml - 4 Month Supply", "both", _vols((2, "oz"), (60, "mL")), "4 Month Supply"),
         ("", "unknown", [], None),
+        (None, "unknown", [], None),
+        (float("nan"), "unknown", [], None),
     ],
 )
 def test_parse_size(size_value, phase, volumes, additional_info):

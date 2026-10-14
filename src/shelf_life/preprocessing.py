@@ -104,7 +104,7 @@ def parse_size(input_string):
     is a list of {"value": float, "unit": str | None} and additional_info holds
     any text that isn't an amount (e.g. "Refill", "fillsizesequence:1", "x2").
     """
-    if not input_string or not input_string.strip():
+    if not isinstance(input_string, str) or not input_string.strip():
         return {"phase": "unknown", "parsed_volumes": [], "additional_info": None}
 
     volumes = []
